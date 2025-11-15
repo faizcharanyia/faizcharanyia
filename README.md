@@ -2,7 +2,7 @@
 
 👀 Interests: My passion is the interplay of Technology and Business. I'm always eager to explore new knowledge and challenge myself with innovative ideas.
 
-🌱 Current Learning Journey: I am currently studying Management Information Systems and Computer Science at The University of Texas at Austin. These fields fascinate me with their potential to solve complex problems and derive meaningful insights from data.
+🌱 Current Journey: I recently graduated from The University of Texas at Austin, where I studied Management Information Systems and Computer Science. I now am a Business Analyst at McMaster-Carr.
 
 📫 Contact Me: Whether it's a project idea, a question, or just a hello, feel free to reach out to me at faizcharaniya@gmail.com. Let's connect and make something amazing together!
 
